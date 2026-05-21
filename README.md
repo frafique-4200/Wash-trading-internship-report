@@ -1,4 +1,4 @@
-# Wash Trading Internship Report
+ï»¿# Wash Trading Internship Report
 
 This repository contains the final internship report and supporting materials for my bachelor's internship project at the Blockchain Competence Center Mittweida (BCCM).
 
@@ -17,6 +17,6 @@ Preliminary Investigation of Wash Trading Detection on EtherDelta Using Graph-Ba
 
 ## Repository Structure
 
--  archive/ – Previous versions and older files
-- devs/ – Development and draft files
-- Root directory – Production-ready report files
+-  archive/ â€“ Previous versions and older files
+- devs/ â€“ Development and draft files
+- Root directory â€“ Production-ready report files
