@@ -17,6 +17,6 @@ Preliminary Investigation of Wash Trading Detection on EtherDelta Using Graph-Ba
 
 ## Repository Structure
 
-- rchive/ – Previous versions and older files
+-  archive/ – Previous versions and older files
 - devs/ – Development and draft files
 - Root directory – Production-ready report files
